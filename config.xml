@@ -4,7 +4,7 @@
     id        = "com.yappino.app"
     version   = "1.0.0">
 
-<name>Yappino [Beta]</name>
+<name>Yappino</name>
 
 <description>
 Sistema de encuesta para bares y restaurantes.
