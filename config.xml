@@ -4,7 +4,7 @@
     id        = "com.yappino.app"
     version   = "1.0.0">
 
-<name>Labbytes</name>
+<name>Yappino [Beta]</name>
 
 <description>
 Sistema de encuesta para bares y restaurantes.
@@ -12,8 +12,8 @@ Sistema de encuesta para bares y restaurantes.
 <preference name="phonegap-version" value="2.9.0" />
 <preference name="orientation" value="portrait" />
 <preference name="fullscreen" value="true" />
-<icon src="http://www.yappino.com/apps/icon_gde.png" />
-<gap:splash src="http://www.yappino.com/apps/splash.png" />
+<icon src="http://yappino.com/apps/icon_gde.png" />
+<gap:splash src="http://yappino.com/apps/splash.png" />
 <preference name="splash-screen-duration" value="18000" />
 <preference name="exit-on-suspend" value="true" />
 
