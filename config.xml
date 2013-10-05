@@ -14,7 +14,7 @@ Sistema de encuesta para bares y restaurantes.
 <preference name="fullscreen" value="true" />
 <icon src="img/icon_grande.png" />
 <gap:splash src="img/splashok.png" />
-<preference name="splash-screen-duration" value="18000" />
+<preference name="splash-screen-duration" value="5000" />
 <preference name="exit-on-suspend" value="true" />
 
 
